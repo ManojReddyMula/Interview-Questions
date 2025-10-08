@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My phone is oppo A78:
+=======
+My phone is OPPO A78:
+>>>>>>> t2
